@@ -39,6 +39,20 @@
     {
       "type": "custom-content",
       "markdown": "k﻿lhhlkhlkhk"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/mspsite-9747_1080x1350-fill_ffffff.jpg"
+        },
+        {
+          "img": "/img/uploads/mspsite-9747_1080x1350-fill_ffffff.jpg"
+        },
+        {
+          "img": "/img/uploads/mspsite-9747_1080x1350-fill_ffffff.jpg"
+        }
+      ]
     }
   ]
 }
