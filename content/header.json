@@ -1,26 +1,17 @@
 {
   "marketing_stripe": {
     "text": "Frete grátis para compras acima de R$ 129 (Sudeste)",
-    "link": ""
+    "link": "",
+    "background": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
     "featured": [
-      "/sapatos-femininos?Sapatos Femininos",
-      "/sandalias?Sandálias"
+      "/sapatos-femininos?Sapatos Femininos"
     ],
     "random": 6,
     "full_width": true
