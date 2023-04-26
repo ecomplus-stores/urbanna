@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Frete grátis para compras acima de R$ 129 (Sudeste)",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -20,9 +20,9 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
-  "centralized_logo": false,
+  "centralized_logo": true,
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": false,
