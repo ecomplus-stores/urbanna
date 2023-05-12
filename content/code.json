@@ -1,5 +1,5 @@
 {
-  "css": ".product__short-stock {\ndisplay: none !important;\n}\n.product__buy button {\nwidth: 100%;\nborder-radius: 10px;\n}\n#product-actions .btn.share {\ndisplay: none\n}",
+  "css": ".product__short-stock {\ndisplay: none !important;\n}\n.product__buy button {\nwidth: 100%;\nborder-radius: 10px;\n}\n.product__favorite button {\nwidth: 100%;\nborder-radius: 10px;\n}\n#product-actions .btn.share {\ndisplay: none\n}",
   "html_head": "<a href=\"https://wa.me/5522997210767?text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20sobre%20um%20produto...\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>",
   "html_body": ""
 }
