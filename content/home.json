@@ -39,6 +39,15 @@
       "title": "Bolsas"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6451a6e44bd2e929c1e9dee3:categories:Rasteiras:/calcados-femininos/rasteiras",
+      "sort": "views",
+      "title": "Rasteiras"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
