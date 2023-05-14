@@ -22,6 +22,10 @@
       "enabled": true
     },
     {
+      "type": "buy-together",
+      "enabled": true
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
@@ -29,19 +33,6 @@
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "Outros produtos"
     }
   ]
 }
