@@ -1,1 +1,11 @@
 // Add your custom CSS here.
+#block-without-stock {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    a {
+        align-items: center;
+        display: flex
+    }
+}
