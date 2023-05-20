@@ -6,7 +6,7 @@
     "bootswatch": "lumen",
     "custom": "clean-white"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/urbanna",
   "logo": "/img/uploads/logo_urbanna_nuvem.png",
   "name": "URBANNA",
