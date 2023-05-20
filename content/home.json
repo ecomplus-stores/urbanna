@@ -10,7 +10,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/botas-santa-lolla-urbanna.jpg"
+          "img": "/img/uploads/botas-santa-lolla-urbanna.jpg",
+          "alt": "Botas Santa Lolla - Urbanna",
+          "link": "https://urbanna.netlify.app/calcados-femininos/botas"
         }
       ]
     },
