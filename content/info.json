@@ -2,17 +2,17 @@
   "shipping": {
     "show": true,
     "text": "Enviamos para todo Brasil",
-    "title": "Compre e receba em casa"
+    "title": ""
   },
   "installments": {
     "show": true,
     "text": "Parcele suas compras em até 10x sem juros",
-    "title": "Pagamento simplificado"
+    "title": ""
   },
   "exchange": {
     "show": true,
-    "text": "Não serviu? Primeira troca grátis!",
-    "title": "Primeira troca grátis"
+    "text": "Primeira troca grátis!",
+    "title": ""
   },
   "promo": {
     "show": false,
