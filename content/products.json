@@ -35,11 +35,6 @@
       "show_loading": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
