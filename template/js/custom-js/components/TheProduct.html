@@ -261,12 +261,12 @@
                 </component>
               </div>
 
-              <div v-if="Object.keys(diffObjectVariations).length" class="js-get-sujest">
+              <div v-if="Object.keys(diffObjectVariations) && diffObjectVariations['size'] && diffObjectVariations['size'].length" class="js-get-sujest">
                 <div class="lb-sugestões-sem-estoque">
                     <h4>Não tem o seu tamanho?</h4>
                     <p>Veja produtos similares disponíveis na sua medida:</p>
                     <div id="block-without-stock" class="d-flex flex-wrap align-items-center justify-content-center mt-2">
-                        <a v-for="variation in diffObjectVariations['size']"  :href="`${linkSpec}?filters[]=size:${variation}`" class="variations__option btn btn-light">{{ variation }}</a>
+                        <a v-for="variation in diffObjectVariations['size']"  :href="`${categoryLink || '/search'}?${body.categories && body.categories.length && (categoryLink === '/search' || categoryLink === null) ? `categories[]=${body.categories[0].name}&` : '' }filters[]=size:${variation}`" class="variations__option btn btn-light">{{ variation }}</a>
                     </div>
                 </div>
               </div>

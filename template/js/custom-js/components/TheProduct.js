@@ -164,7 +164,9 @@ import {
         paymentOptions: [],
         customizations: [],
         kitItems: [],
-        currentTimer: null
+        currentTimer: null, 
+        filteredProducts: [],
+        categoryLink: null
       }
     },
   
@@ -322,12 +324,40 @@ import {
       },
 
       linkSpec () {
-        if (this.body && this.body.categories && Array.isArray(this.body.categories) && this.body.categories[0].slug) {
-            return this.body.categories[0].slug
-        } else {
-            return '/search'
+        if (this.body && Array.isArray(this.body.categories) && this.body.categories.length) {
+          const { categories } = this.body
+          for (let index = 0; index < categories.length; index++) {
+            const category = categories[index];
+            return store({
+              url: `categories/${category._id}.json`,
+              axiosConfig: {
+                timeout: 2500
+              }
+            }).then(({ data }) => {
+              console.log(data)
+              if (data.parent) {
+                this.categoryLink = '/' + data.slug
+              } else {
+                this.categoryLink = '/search'
+              }
+            }).catch(err => {
+              this.categoryLink = '/search'  
+            })
+          }
         }
+        this.categoryLink = '/search'  
+      },
+
+      skusFiltered () {
+        let modelos, skus
+        if (this.body.metafields && this.body.metafields.length) {
+            modelos = this.body.metafields.filter(metafield => metafield.namespace === 'modelo')
+            skus = modelos[0].value.split(',')
+            return skus
+        }
+        return null
       }
+
     },
   
     methods: {
@@ -558,6 +588,32 @@ import {
                   } else {
                     addKitItem()
                   }
+                })
+              })
+              .catch(console.error)
+          }
+        },
+        immediate: true
+      },
+
+      skusFiltered: {
+        handler (skusFiltered) {
+          if (Array.isArray(skusFiltered) && skusFiltered.length) {
+            const ecomSearch = new EcomSearch()
+            console.log(skusFiltered[0])
+            ecomSearch
+              .setPageSize(skusFiltered[0].length)
+              .setSkus(skusFiltered)
+              .fetch(true)
+              .then(() => {
+                ecomSearch.getItems().forEach(product => {
+                    console.log(product)
+                    if (product) {
+                        this.filteredProducts.push({
+                            name: product.name,
+                            img: product.pictures[0]
+                        })
+                    }
                 })
               })
               .catch(console.error)
