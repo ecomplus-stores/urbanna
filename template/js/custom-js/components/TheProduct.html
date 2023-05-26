@@ -293,7 +293,7 @@
               <div class="hintup-mini-vitrine" v-if="filteredProducts && filteredProducts.length">
                 <div class="hintup-mini-vitrine-title"> <span>Cores</span> </div>
                 <div class="hintup-mini-box">
-                  <a v-for="product in filteredProducts" :class="`ai-${product.id} list-ai-products`" :href="`/${product.link}`">
+                  <a v-for="product in filteredProducts" :class="`ai-${product.id} list-ai-products`" :href="product.link">
                     <div class="hintup-mini-image">
                       <img width="75px" class="tns-lazy-img " :src="product.img.url" :alt="product.img.alt">
                     </div>

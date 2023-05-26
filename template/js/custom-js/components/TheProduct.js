@@ -599,12 +599,12 @@ import {
             const ecomSearch = new EcomSearch()
             ecomSearch.setSpec('modelo', [skusFiltered[0].value]).setPageSize(5).fetch().then(e => {
               ecomSearch.getItems().forEach(product => {
-                console.log(product)
-                if (product) {
+                // console.log(product)
+                if (product && product.in_stock) {
                     this.filteredProducts.push({
                         id: product._id,
                         img: product.pictures[0] && product.pictures[0].normal,
-                        link: product.slug
+                        link: product._id === this.body._id ? 'javascript:;' : `/${product.slug}`
                     })
                 }
               })
