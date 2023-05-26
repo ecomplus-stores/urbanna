@@ -261,6 +261,25 @@
                 </component>
               </div>
 
+              <slot name="favorite">
+                <div>
+                  <a
+                    class="btn btn-sm product__favorite"
+                    @click="toggleFavorite"
+                    :href="isLogged ? null : accountUrl"
+                  >
+                    <i 
+                      class="i-heart mr-1"
+                      :class="isFavorite ? 'active' : null"
+                    >
+                    </i>
+                    <span>
+                      {{ isFavorite ? i19removeFromFavorites : i19addToFavorites }}
+                    </span>
+                  </a>
+                </div>
+              </slot>
+
               <div v-if="Object.keys(diffObjectVariations) && diffObjectVariations['size'] && diffObjectVariations['size'].length" class="js-get-sujest">
                 <div class="lb-sugestões-sem-estoque">
                     <h4>Não tem o seu tamanho?</h4>
@@ -308,25 +327,6 @@
                 >
                   00:00:00
                 </div>
-              </div>
-            </slot>
-
-            <slot name="favorite">
-              <div>
-                <a
-                  class="btn btn-sm product__favorite"
-                  @click="toggleFavorite"
-                  :href="isLogged ? null : accountUrl"
-                >
-                  <i 
-                    class="i-heart mr-1"
-                    :class="isFavorite ? 'active' : null"
-                  >
-                  </i>
-                  <span>
-                    {{ isFavorite ? i19removeFromFavorites : i19addToFavorites }}
-                  </span>
-                </a>
               </div>
             </slot>
 
