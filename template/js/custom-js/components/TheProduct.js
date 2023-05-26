@@ -349,13 +349,10 @@ import {
       },
 
       skusFiltered () {
-        let modelos, skus
-        if (this.body.metafields && this.body.metafields.length) {
-            modelos = this.body.metafields.filter(metafield => metafield.namespace === 'modelo')
-            skus = modelos[0].value.split(',')
-            return skus
+        if (this.body.specifications && Object.hasOwnProperty.call(this.body.specifications, 'modelo')) {
+            return this.body.specifications['modelo']
         }
-        return null
+        return {}
       }
 
     },
@@ -597,26 +594,22 @@ import {
       },
 
       skusFiltered: {
-        handler (skusFiltered) {
-          if (Array.isArray(skusFiltered) && skusFiltered.length) {
+        handler (skusFiltered, old) {
+          if (Object.keys(skusFiltered) && Object.keys(skusFiltered).length && Object.keys(old) && Object.keys(old).length) {
             const ecomSearch = new EcomSearch()
-            console.log(skusFiltered[0])
-            ecomSearch
-              .setPageSize(skusFiltered[0].length)
-              .setSkus(skusFiltered)
-              .fetch(true)
-              .then(() => {
-                ecomSearch.getItems().forEach(product => {
-                    console.log(product)
-                    if (product) {
-                        this.filteredProducts.push({
-                            name: product.name,
-                            img: product.pictures[0]
-                        })
-                    }
-                })
+            ecomSearch.setSpec('modelo', [skusFiltered[0].value]).setPageSize(5).fetch().then(e => {
+              ecomSearch.getItems().forEach(product => {
+                console.log(product)
+                if (product) {
+                    this.filteredProducts.push({
+                        id: product._id,
+                        img: product.pictures[0] && product.pictures[0].normal,
+                        link: product.slug
+                    })
+                }
               })
-              .catch(console.error)
+            })
+              
           }
         },
         immediate: true

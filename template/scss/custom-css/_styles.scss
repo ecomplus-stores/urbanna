@@ -9,3 +9,31 @@
         display: flex
     }
 }
+.hintup-mini-vitrine {
+    padding-bottom: 10px;
+    &-title {
+        display: block;
+        font-family: "Open Sans", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+        text-align: left;
+    }
+    .hintup-mini-box {
+        display: flex;
+        max-width: 100%;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        a {
+            padding-top: 15px;
+            padding-left: 15px;
+            padding-right: 5px;
+            img:hover {
+                box-shadow: 0 1px 6px rgb(4 4 4 / 20%);
+                border-radius: 10px;
+            }
+        }
+
+    }
+}
+
+
