@@ -1,6 +1,176 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/rasteiras",
+        "destination": "/calcados-femininos/rasteiras",
+        "type": 301
+        },
+        {
+        "source": "/chinelos",
+        "destination": "/calcados-femininos/chinelos",
+        "type": 301
+        },
+        {
+        "source": "/sandalias",
+        "destination": "/calcados-femininos/sandalias",
+        "type": 301
+        },
+        {
+        "source": "/tenis",
+        "destination": "/calcados-femininos/tenis",
+        "type": 301
+        },
+        {
+        "source": "/sapatilhas",
+        "destination": "/calcados-femininos/sapatilhas",
+        "type": 301
+        },
+        {
+        "source": "/scarpin",
+        "destination": "/calcados-femininos/scarpins",
+        "type": 301
+        },
+        {
+        "source": "/mules",
+        "destination": "/calcados-femininos/mules",
+        "type": 301
+        },
+        {
+        "source": "/botas",
+        "destination": "/calcados-femininos/botas",
+        "type": 301
+        },
+        {
+        "source": "/chinelos-santa-lolla",
+        "destination": "/calcados-femininos/chinelos",
+        "type": 301
+        },
+        {
+        "source": "/tenis-santa-lolla",
+        "destination": "/calcados-femininos/tenis",
+        "type": 301
+        },
+        {
+        "source": "/tamancos-santa-lolla",
+        "destination": "/calcados-femininos/tamancos",
+        "type": 301
+        },
+        {
+        "source": "/sapatilhas-santa-lolla",
+        "destination": "/calcados-femininos/sapatilhas",
+        "type": 301
+        },
+        {
+        "source": "/mules-santa-lolla",
+        "destination": "/calcados-femininos/mules",
+        "type": 301
+        },
+        {
+        "source": "/rasteiras-santa-lolla",
+        "destination": "/calcados-femininos/rasteiras",
+        "type": 301
+        },
+        {
+        "source": "/botas-santa-lolla",
+        "destination": "/calcados-femininos/botas",
+        "type": 301
+        },
+        {
+        "source": "/bolsas-santa-lolla",
+        "destination": "/bolsas-e-carteiras-femininas/bolsas",
+        "type": 301
+        },
+        {
+        "source": "/carteiras-santa-lolla",
+        "destination": "/bolsas-e-carteiras-femininas/carteiras",
+        "type": 301
+        },
+        {
+        "source": "/masculino-sl",
+        "destination": "/masculino",
+        "type": 301
+        },
+        {
+        "source": "/carteira-normal",
+        "destination": "/bolsas-e-carteiras-femininas/carteiras",
+        "type": 301
+        },
+        {
+        "source": "/necessaires",
+        "destination": "/bolsas-e-carteiras-femininas/necessaires",
+        "type": 301
+        },
+        {
+        "source": "/mochilas",
+        "destination": "/bolsas-e-carteiras-femininas/mochilas",
+        "type": 301
+        },
+        {
+        "source": "/blusa",
+        "destination": "/roupas-femininas/blusas",
+        "type": 301
+        },
+        {
+        "source": "/vestidos",
+        "destination": "/roupas-femininas/vestidos",
+        "type": 301
+        },
+        {
+        "source": "/calcas",
+        "destination": "/roupas-femininas/calcas",
+        "type": 301
+        },
+        {
+        "source": "/shorts",
+        "destination": "/roupas-femininas/shorts",
+        "type": 301
+        },
+        {
+        "source": "/saias",
+        "destination": "/roupas-femininas/saias",
+        "type": 301
+        },
+        {
+        "source": "/macacao",
+        "destination": "/roupas-femininas/macacoes",
+        "type": 301
+        },
+        {
+        "source": "/macaquinho",
+        "destination": "/roupas-femininas/macaquinhos",
+        "type": 301
+        },
+        {
+        "source": "/jaquetas",
+        "destination": "/roupas-femininas/jaquetas",
+        "type": 301
+        },
+        {
+        "source": "/casaco",
+        "destination": "/roupas-femininas/casacos",
+        "type": 301
+        },
+        {
+        "source": "/blusa",
+        "destination": "/roupas-femininas/blusas",
+        "type": 301
+        },
+        {
+        "source": "/slip-on-santa-lolla",
+        "destination": "/calcados-femininos/tenis",
+        "type": 301
+        },
+        {
+        "source": "/tenis-masculino",
+        "destination": "/masculino/tenis-masculinos",
+        "type": 301
+        },
+        {
+        "source": "/chinelo-masculino",
+        "destination": "/masculino/chinelos-masculinos",
+        "type": 301
+        }
     ],
     "public": "dist",
     "ignore": [
