@@ -31,13 +31,21 @@
       "show_loading": true
     },
     {
-      "type": "custom-html",
-      "html": "P.blocktext {\n    margin-left: auto;\n    margin-right: auto;\n}\n<P class=\"blocktext\">Confira nossas últimas novidades</P>\n"
+      "type": "custom-content",
+      "markdown": "C﻿onfira nossas últimoas novidades"
     },
     {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 20,
+      "page": 1,
+      "sort": "news",
+      "title": "Últimas Novidades"
     }
   ]
 }
