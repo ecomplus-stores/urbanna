@@ -22,18 +22,18 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "6451a7a04bd2e929c1e9dfc9:categories:Botas:/calcados-femininos/botas",
       "sort": "news",
       "title": "Botas",
       "headless": false,
-      "limit": 12,
+      "limit": 16,
       "page": 1
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
+      "shuffle": false,
+      "limit": 16,
       "page": 1,
       "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
       "sort": "news",
@@ -41,8 +41,8 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
+      "shuffle": false,
+      "limit": 16,
       "page": 1,
       "collection_id": "6451a6e44bd2e929c1e9dee3:categories:Rasteiras:/calcados-femininos/rasteiras",
       "sort": "news",
