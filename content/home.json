@@ -27,7 +27,7 @@
       "sort": "news",
       "title": "Botas",
       "headless": false,
-      "limit": 3,
+      "limit": 16,
       "page": 1
     },
     {
