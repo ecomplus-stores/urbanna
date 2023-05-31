@@ -31,6 +31,10 @@
       "show_loading": true
     },
     {
+      "type": "custom-html",
+      "html": "P.blocktext {\n    margin-left: auto;\n    margin-right: auto;\n}\n<P class=\"blocktext\">Confira nossas últimas novidades</P>\n"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
