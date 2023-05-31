@@ -22,7 +22,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "6451a7a04bd2e929c1e9dfc9:categories:Botas:/calcados-femininos/botas",
       "sort": "news",
       "title": "Botas",
@@ -32,7 +32,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 16,
       "page": 1,
       "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
