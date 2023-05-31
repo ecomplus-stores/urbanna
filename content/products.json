@@ -31,12 +31,9 @@
       "show_loading": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "Veja Mais!"
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     }
   ]
 }
