@@ -2,180 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/sandalias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/rasteiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/chinelos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/tenis</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/sapatilhas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/scarpins</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/mules</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/tamancos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/calcados-femininos/botas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/bolsas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/carteiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/blusas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/vestidos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/calcas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/shorts</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/saias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/macacoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/macaquinhos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/jaquetas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/roupas-femininas/casacos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/necessaires</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/mochilas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/masculino</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/masculino/tenis-masculinos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/masculino/chinelos-masculinos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://urbanna.netlify.app/conjuntos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://urbanna.netlify.app/produtos/relogio-feminino-dourado-digital-lince-sdph109l-cxkx1</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -12095,6 +11921,180 @@
       <loc>https://urbanna.netlify.app/produtos/top-cropped-marrom-couro-frysaide</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/sandalias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/rasteiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/chinelos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/tenis</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/sapatilhas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/scarpins</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/mules</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/tamancos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/calcados-femininos/botas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/bolsas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/carteiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/blusas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/vestidos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/calcas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/shorts</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/saias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/macacoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/macaquinhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/jaquetas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/roupas-femininas/casacos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/necessaires</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/bolsas-e-carteiras-femininas/mochilas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/masculino</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/masculino/tenis-masculinos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/masculino/chinelos-masculinos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://urbanna.netlify.app/conjuntos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
