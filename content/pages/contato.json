@@ -2,5 +2,19 @@
   "title": "SAC - Atendimento",
   "meta_title": "Urbanna - Sac - Atendimento ao Cliente",
   "meta_description": "Precisa de alguma ajuda com sua compra como troca ou devolução? Clique e preencha o formulário. Urbanna, sua loja online de calçados, roupas e acessórios femininos.",
-  "body": "<div align=\"center\">\n<p>Preencha o formul&aacute;rio abaixo para fazer sua solicita&ccedil;&atilde;o.</p>\n</div>\n\n<div align=\"center\"><iframe frameborder=\"0\" height=\"820\" src=\"https://app.pipefy.com/public/form/sUZf_BgK?embedded=true\" width=\"560\"></iframe></div>"
+  "body": "<div align=\"center\">\n<p>Preencha o formul&aacute;rio abaixo para fazer sua solicita&ccedil;&atilde;o.</p>\n</div>\n\n<div align=\"center\"><iframe frameborder=\"0\" height=\"820\" src=\"https://app.pipefy.com/public/form/sUZf_BgK?embedded=true\" width=\"560\"></iframe></div>",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 3,
+      "page": 1,
+      "sort": "news",
+      "title": "Confira as últimas novidades"
+    }
+  ]
 }
