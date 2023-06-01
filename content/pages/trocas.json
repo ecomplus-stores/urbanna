@@ -9,9 +9,12 @@
       "enabled": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "sort": "news",
+      "title": "Confira os últimos lançamentos"
     }
   ]
 }
