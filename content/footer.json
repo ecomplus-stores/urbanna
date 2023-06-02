@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Política de Privacidade",
+        "url": "https://urbanna.com.br/pages/politica-de-privacidade"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
