@@ -3,11 +3,6 @@
     {
       "type": "search-engine",
       "enabled": true
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
     }
   ]
 }
