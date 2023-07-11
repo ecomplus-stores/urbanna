@@ -157,11 +157,6 @@
         "type": 301
         },
         {
-        "source": "/slip-on-santa-lolla",
-        "destination": "/calcados-femininos/tenis",
-        "type": 301
-        },
-        {
         "source": "/tenis-masculino",
         "destination": "/masculino/tenis-masculinos",
         "type": 301
