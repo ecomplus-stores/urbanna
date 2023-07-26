@@ -1,12 +1,12 @@
 {
   "title": "SAC - Atendimento ao Cliente",
-  "body": "# S﻿AC - Serviço de Atendimento ao Cliente",
+  "body": "<iframe src=\"https://site.urbanna.com.br/forms/formularioDevolucaoEcommerce.html\" width=\"100%\" height=\"100%\"></iframe>",
   "meta_title": "Urbanna | SAC - Atendimento ao Cliente",
   "meta_description": "Acesse aqui nosso Serviço de Atendimento ao Cliente (SAC). Tenha um atendimento Urbanna totalmente personalizado. Solicite suas trocas e devoluções aqui.",
   "sections": [
     {
-      "type": "extra-page",
-      "enabled": true
+      "type": "custom-html",
+      "html": "<iframe src=\"https://site.urbanna.com.br/forms/formularioDevolucaoEcommerce.html\" width=\"100%\" height=\"100%\"></iframe>"
     },
     {
       "type": "collection-shelf",
@@ -18,10 +18,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "custom-html",
-      "html": "<iframe src=\"page.html\" width=\"300\" height=\"300\"></iframe>"
     }
   ]
 }
