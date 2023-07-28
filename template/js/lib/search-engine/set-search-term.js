@@ -9,7 +9,7 @@ export default (self, term) => {
       fields: [
         'name',
         'keywords',
-        'sku'
+        'skus'
       ]
     }
   }, 'must')
