@@ -33,12 +33,21 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "6451a7a04bd2e929c1e9dfc9:categories:Botas:/calcados-femininos/botas",
+      "collection_id": "64489fcf4bd2e929c1e091a9:categories:Sandálias:/calcados-femininos/sandalias",
       "sort": "news",
       "title": "Botas",
       "headless": false,
       "limit": 16,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "6451a7134bd2e929c1e9df0f:categories:Tênis:/calcados-femininos/tenis",
+      "sort": "news",
+      "title": "Tênis"
     },
     {
       "type": "collection-shelf",
