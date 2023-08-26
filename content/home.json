@@ -28,21 +28,26 @@
       "page": 1,
       "collection_id": "6451a6e44bd2e929c1e9dee3:categories:Rasteiras:/calcados-femininos/rasteiras",
       "sort": "news",
-      "title": "Rasteiras"
+      "title": "Rasteiras",
+      "link": ""
     },
     {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/rasteira_1.jpg",
-          "alt": "Rasteira Santa Lolla"
+          "alt": "Rasteiras Santa Lolla",
+          "link": "https://urbanna.com.br/calcados-femininos/rasteiras"
         },
         {
-          "img": "/img/uploads/sandaalia_1.jpg"
+          "img": "/img/uploads/sandaalia_1.jpg",
+          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
+          "alt": "Sandálias Santa Lolla"
         },
         {
           "img": "/img/uploads/bolsa_1.jpg",
-          "alt": "Bolsa Santa Lolla"
+          "alt": "Bolsas Santa Lolla",
+          "link": "https://urbanna.com.br/bolsas-e-carteiras-femininas/bolsas"
         }
       ]
     },
