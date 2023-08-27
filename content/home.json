@@ -128,18 +128,24 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
         {
-          "img": "/img/uploads/urbanna_compre_online.jpg",
-          "link": "",
-          "alt": "Urbanna | Sapatos e Bolsas femininas"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_full_urbanna.jpg"
         }
       ]
     },
     {
       "type": "custom-html",
       "html": "<!-- LightWidget WIDGET --><script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script><iframe src=\"https://cdn.lightwidget.com/widgets/6e13d251f36b57068eafc7e33a36d5d9.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden;\"></iframe>\n<br>"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner_full_urbanna.jpg"
     }
   ]
 }
