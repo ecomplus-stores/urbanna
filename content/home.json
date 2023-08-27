@@ -110,6 +110,11 @@
           "img": "/img/uploads/banner_santa_lolla.jpg",
           "link": "https://urbanna.com.br/santa-lolla",
           "alt": "Santa Lolla"
+        },
+        {
+          "img": "/img/uploads/banner_frysaide.jpg",
+          "link": "https://urbanna.com.br/frysaide",
+          "alt": "Frysaide"
         }
       ]
     },
