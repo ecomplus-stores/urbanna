@@ -108,24 +108,9 @@
       "link": ""
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner_santa_lolla.jpg",
-          "link": "https://urbanna.com.br/santa-lolla",
-          "alt": "Santa Lolla"
-        },
-        {
-          "img": "/img/uploads/banner_frysaide.jpg",
-          "link": "https://urbanna.com.br/frysaide",
-          "alt": "Frysaide"
-        },
-        {
-          "img": "/img/uploads/banner_degalls.jpg",
-          "link": "https://urbanna.com.br/degalls",
-          "alt": "Degalls"
-        }
-      ]
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "banner-slider",
