@@ -30,7 +30,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap\" rel=\"stylesheet\">\n<style>\npoppins-text {\n    font-family: 'Poppins', sans-serif;\n    font-size: 24px;\n    font-family: sans-serif;\n  }\n</style>\n<h2 class=\"poppins-text\" align=\"center\">encontre os últimos lançamentos Santa Lolla</h2>"
+      "html": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap\" rel=\"stylesheet\">\n<style>\npoppins-text {\n    font-family: 'Poppins', sans-serif;\n    font-size: 24px;\n    font-family: sans-serif;\n  }\n</style>\n<h2 class=\"poppins-text\"  align=\"center\">encontre os últimos lançamentos Santa Lolla</h2>"
     },
     {
       "type": "banners-grid",
@@ -53,7 +53,7 @@
         {
           "img": "/img/uploads/sapatilhas.jpg",
           "link": "https://urbanna.com.br/calcados-femininos/sapatilhas",
-          "alt": "Sapatilhas Santa Loll"
+          "alt": "Sapatilhas Santa Lolla"
         }
       ]
     },
