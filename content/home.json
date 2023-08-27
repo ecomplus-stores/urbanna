@@ -108,6 +108,10 @@
       "offset": 0
     },
     {
+      "type": "custom-html",
+      "html": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap\" rel=\"stylesheet\">\n<style>\npoppins-text {\n    font-family: 'Poppins', sans-serif;\n    font-size: 24px;\n    font-family: sans-serif;\n  }\n</style>\n<h2 class=\"poppins-text\"  align=\"center\">aproveite nossas vantagens para comprar</h2>"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
