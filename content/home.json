@@ -29,6 +29,31 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/rasteiras.jpg",
+          "link": "https://urbanna.com.br/calcados-femininos/rasteiras",
+          "alt": "Rasteiras Santa Lolla"
+        },
+        {
+          "img": "/img/uploads/sandalias.jpg",
+          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
+          "alt": "Sandálias Santa Lolla"
+        },
+        {
+          "img": "/img/uploads/bolsas.jpg",
+          "link": "https://urbanna.com.br/bolsas-e-carteiras-femininas/bolsas",
+          "alt": "Bolsas Santa Lolla"
+        },
+        {
+          "img": "/img/uploads/sapatilhas.jpg",
+          "link": "https://urbanna.com.br/calcados-femininos/sapatilhas",
+          "alt": "Sapatilhas Santa Lolla"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -37,26 +62,6 @@
       "sort": "news",
       "title": "Rasteiras",
       "link": ""
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/rasteira_1.jpg",
-          "alt": "Rasteiras Santa Lolla",
-          "link": "https://urbanna.com.br/calcados-femininos/rasteiras"
-        },
-        {
-          "img": "/img/uploads/sandaalia_1.jpg",
-          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
-          "alt": "Sandálias Santa Lolla"
-        },
-        {
-          "img": "/img/uploads/bolsa_1.jpg",
-          "alt": "Bolsas Santa Lolla",
-          "link": "https://urbanna.com.br/bolsas-e-carteiras-femininas/bolsas"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
