@@ -81,21 +81,31 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 16,
+      "page": 1,
+      "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
+      "sort": "news",
+      "title": "Bolsas"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sandalias_santa_lolla_v1_23.jpg",
+          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
+          "alt": "Sandálias Santa Lolla Verão 2023"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 12,
       "page": 1,
       "collection_id": "6451a6e44bd2e929c1e9dee3:categories:Rasteiras:/calcados-femininos/rasteiras",
       "sort": "news",
       "title": "Rasteiras",
       "link": ""
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 16,
-      "page": 1,
-      "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
-      "sort": "news",
-      "title": "Bolsas"
     },
     {
       "type": "collection-shelf",
