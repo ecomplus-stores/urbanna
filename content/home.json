@@ -59,6 +59,21 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bolsas_santa_lolla_v1_23.jpg",
+          "link": "https://urbanna.com.br/bolsa-transversal-santa-lolla-preta-alca-mao-329303058",
+          "alt": "Bolsa Transversal Santa Lolla"
+        },
+        {
+          "img": "/img/uploads/bolsa_santa_lolla_v1_23_2.jpg",
+          "link": "https://urbanna.com.br/bolsa-transversal-santa-lolla-marrom-cinamon-326912891",
+          "alt": "Bolsa Transversal Santa Lolla Marrom"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
