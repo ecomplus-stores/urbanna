@@ -33,6 +33,15 @@
       "html": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap\" rel=\"stylesheet\">\n<style>\npoppins-text {\n    font-family: 'Poppins', sans-serif;\n    font-size: 24px;\n    font-family: sans-serif;\n  }\n</style>\n<h2 class=\"poppins-text\"  align=\"center\">encontre os últimos lançamentos Santa Lolla</h2>"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 15,
+      "page": 1,
+      "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
+      "sort": "news",
+      "title": "Bolsas"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -53,44 +62,13 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/bolsas_santa_lolla_v1_23.jpg",
-          "link": "https://urbanna.com.br/bolsa-transversal-santa-lolla-preta-alca-mao-329303058",
-          "alt": "Bolsa Transversal Santa Lolla"
-        },
-        {
-          "img": "/img/uploads/bolsa_santa_lolla_v1_23_2.jpg",
-          "link": "https://urbanna.com.br/bolsa-transversal-santa-lolla-marrom-cinamon-326912891",
-          "alt": "Bolsa Transversal Santa Lolla Marrom"
-        },
-        {
-          "img": "/img/uploads/bolsa_santa_lolla_v1_23_1.jpg",
-          "link": "https://urbanna.com.br/bolsa-transversal-santa-lolla-off-white-317956513",
-          "alt": "Bolsa Transversal Santa Lolla Off White"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/sandalias_santa_lolla_v1_23.jpg",
-          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
-          "alt": "Sandálias Santa Lolla Verão 2023"
-        },
-        {
-          "img": "/img/uploads/sandalia_santa_lolla_v1_23_2.jpg",
-          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
-          "alt": "Sandália Dourada Santa Lolla Salto Bloco"
-        },
-        {
-          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
-          "img": "/img/uploads/sandalia_santa_lolla_v1_23_1.jpg",
-          "alt": "Sandália Bronze Santa Lolla Salto Bloco"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 14,
+      "page": 1,
+      "collection_id": "64489fcf4bd2e929c1e091a9:categories:Sandálias:/calcados-femininos/sandalias",
+      "title": "Sandálias",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -122,15 +100,6 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
-      "sort": "news",
-      "title": "Shop Bolsas"
     }
   ]
 }
