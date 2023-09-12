@@ -7,6 +7,7 @@ module.exports = () => ({
     alias: {
       './methods/set-search-term': path.resolve(dirSearchAlias, 'set-search-term'),
       './html/TheProduct.html': path.resolve(__dirname, 'template/js/custom-js/components/TheProduct.html'),
+      './html/AddressForm.html': path.resolve(__dirname, 'template/js/custom-js/components/AddressForm.html'),
       './js/TheProduct.js': path.resolve(__dirname, 'template/js/custom-js/components/TheProduct.js'),
       './js/ProductVariations.js': path.resolve(__dirname, 'template/js/custom-js/components/ProductVariations.js')
     }
