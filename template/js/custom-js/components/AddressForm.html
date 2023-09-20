@@ -68,6 +68,7 @@
                 v-model="localAddress.street"
                 :readonly="addressFromZip.street"
                 @click="({ target }) => target.select()"
+                ref="inputNumber"
                 required
               >
             </div>
@@ -87,7 +88,6 @@
                 :required="!isNoNumber"
                 :readonly="isNoNumber"
                 v-model.number="localAddress.number"
-                ref="inputNumber"
                 >
             </div>
 
