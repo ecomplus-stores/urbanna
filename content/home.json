@@ -4,8 +4,8 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
-      "full_width": true,
+      "autoplay": 0,
+      "full_width": false,
       "slides": [
         {
           "start": "",
