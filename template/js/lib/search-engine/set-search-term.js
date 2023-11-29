@@ -1,6 +1,7 @@
 import * as merge from 'lodash.merge'
 
 export default (self, term) => {
+  self.setSortOrder('news')
   // match name and/or keyword with term
   // https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-multi-match-query.html
   self.mergeFilter({
