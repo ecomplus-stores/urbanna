@@ -5,10 +5,6 @@
   "meta_description": "Acesse aqui nosso Serviço de Atendimento ao Cliente (SAC). Tenha um atendimento Urbanna totalmente personalizado. Solicite suas trocas e devoluções aqui.",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<style>\n    body {\n        margin: 0;\n        padding: 0;\n        font-family: Arial, sans-serif;\n        background-color: #f0f0f0;\n    }\n\n    .button-wrapper {\n        display: flex;\n        flex-direction: column;\n        justify-content: center;\n        align-items: center;\n        height: 100vh; /* Altura total da tela */\n    }\n\n    .button {\n        display: inline-block;\n        padding: 10px 0;\n        width: 250px; /* Comprimento fixo */\n        background-color: #000;\n        color: #fff;\n        text-decoration: none;\n        margin: 10px 0;\n        border-radius: 5px;\n        text-align: center;\n        transition: background-color 0.3s ease;\n    }\n\n    .button:hover {\n        background-color: #333;\n    }\n</style>\n</head>\n<body>\n\n<div class=\"button-wrapper\">\n    <a href=\"https://appsurbanna-81205.bubbleapps.io/version-test/sac_formulario\" class=\"button\" target=\"_blank\">Trocas e Devoluções</a>\n    <a href=\"https://wa.me/5522997269952\" class=\"button\" target=\"_blank\">Atendimento WhatsApp</a>\n</div>\n\n</body>\n</html>\n"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 20,
