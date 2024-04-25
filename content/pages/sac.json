@@ -1,6 +1,6 @@
 {
   "title": "Central de Atendimento",
-  "body": "<!--StartFragment-->\n\n<style>   \n</style>\n\n</head>\n\n<body>\n\n<h2 class=\"page-title\">Central de Atendimento</h2>\n\n<div class=\"button-wrapper\">\n\n    <div class=\"button-container\">\n\n        <a href=\"https://appsurbanna-81205.bubbleapps.io/version-test/sac_formulario\" class=\"button\" target=\"_blank\">Trocas e Devoluções</a>\n\n        <a href=\"https://wa.me/5522997269952\" class=\"button\" target=\"_blank\">Atendimento WhatsApp</a>\n\n    </div>\n\n</div>\n\n</body>\n\n<!--EndFragment-->",
+  "body": "<!--StartFragment-->\n\n<h2 class=\"page-title\">Central de Atendimento</h2>\n\n<div class=\"button-wrapper\">\n\n    <div class=\"button-container\">\n\n        <a href=\"https://appsurbanna-81205.bubbleapps.io/version-test/sac_formulario\" class=\"button\" target=\"_blank\">Trocas e Devoluções</a>\n\n        <a href=\"https://wa.me/5522997269952\" class=\"button\" target=\"_blank\">Atendimento WhatsApp</a>\n\n    </div>\n\n</div>\n\n<!--EndFragment-->",
   "meta_title": "Urbanna | Central de Atendimento",
   "meta_description": "Acesse aqui nossa Centrl de Atendimento (SAC). Tenha um atendimento Urbanna totalmente personalizado. Solicite suas trocas e devoluções aqui.",
   "sections": [
