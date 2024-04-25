@@ -10,10 +10,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 20,
       "page": 1,
-      "sort": "news"
+      "sort": "news",
+      "title": "Confira nossas últimos novidades"
     },
     {
       "type": "info-bar",
