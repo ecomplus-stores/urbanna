@@ -39,6 +39,10 @@
       "title": "Últimas Novidades"
     },
     {
+      "type": "related-products",
+      "title": "Produtos Relacionados"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
@@ -47,8 +51,8 @@
       "title": "Veja mais!"
     },
     {
-      "type": "related-products",
-      "title": "Produtos Relacionados"
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:"
     }
   ]
 }
