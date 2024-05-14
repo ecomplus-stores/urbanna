@@ -31,10 +31,6 @@
       "show_loading": true
     },
     {
-      "type": "custom-content",
-      "markdown": "C﻿onfira nossas últimoas novidades"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
