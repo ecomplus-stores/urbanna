@@ -37,6 +37,13 @@
       "page": 1,
       "sort": "news",
       "title": "Últimas Novidades"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "views"
     }
   ]
 }
