@@ -43,7 +43,8 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "views"
+      "sort": "views",
+      "title": "Veja mais!"
     },
     {
       "type": "related-products",
