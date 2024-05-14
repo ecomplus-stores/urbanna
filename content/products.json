@@ -43,7 +43,7 @@
       "shuffle": true,
       "limit": 24,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "title": "Veja mais!"
     },
     {
