@@ -44,6 +44,10 @@
       "limit": 24,
       "page": 1,
       "sort": "views"
+    },
+    {
+      "type": "related-products",
+      "title": "Produtos Relacionados"
     }
   ]
 }
