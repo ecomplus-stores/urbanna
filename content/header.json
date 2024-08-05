@@ -1,22 +1,25 @@
 {
+  "categories_list": {
+    "featured": [
+      "/slip-on-santa-lolla?Slip On Santa Lolla"
+    ],
+    "random": 6,
+    "full_width": true
+  },
+  "menu_all_departments": false,
+  "centralized_logo": true,
   "marketing_stripe": {
     "text": "Frete grátis para compras acima de R$ 149 (Sudeste)",
     "link": "",
     "background": "#000000"
   },
+  "alphabetical_order_submenu": false,
+  "search_input": true,
+  "desktop_megamenu": false,
+  "full_width_submenu": false,
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": true,
     "socials": true
-  },
-  "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": true
-  },
-  "centralized_logo": true,
-  "desktop_megamenu": false,
-  "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  }
 }
