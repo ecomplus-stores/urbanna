@@ -60,6 +60,16 @@
       "link": ""
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/santa_lolla_bolsas_verao_2025.webp",
+          "link": "https://urbanna.com.br/bolsas-e-carteiras-femininas/bolsas",
+          "alt": "Santa Lolla Bolsas Verão 2025"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 15,
