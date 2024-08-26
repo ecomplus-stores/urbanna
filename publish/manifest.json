@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.2606a443ef212fb6dab7edb690db5a5a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.3ff83e86edb6595bf289f030c14b599d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f67a53fcea72b95a2a59a945a1754c16.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.68b878b7dbd7a5f061b3e85f09b4eb03.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.e6c9232e6c45753099bf252e2629d6ce.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "URBANNA",
+  "short_name": "Urbanna",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos uma loja de calçados, roupas e acessórios apaixonada por moda e pelo universo feminino. Encontre aqui na Urbanna todos os seus estilos e versões ❣️",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
