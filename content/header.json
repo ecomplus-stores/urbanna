@@ -1,6 +1,12 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/calcados-femininos?Calçados",
+      "/bolsas-e-carteiras-femininas?Bolsas e Carteiras",
+      "/roupas-femininas?Roupas",
+      "/masculino?Masculino",
+      "/perfumes?Perfume"
+    ],
     "random": 5,
     "full_width": true
   },
