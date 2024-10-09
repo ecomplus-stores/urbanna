@@ -40,6 +40,10 @@
       "page": 1,
       "sort": "sales",
       "title": "Veja mais!"
+    },
+    {
+      "type": "custom-html",
+      "html": "teste"
     }
   ]
 }
