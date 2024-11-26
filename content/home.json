@@ -10,18 +10,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/bolsa-santa-lolla-sacola-shopper-universitaria.webp",
-          "link": "https://urbanna.com.br/bolsa-sacola",
-          "alt": "Bolsa Santa Lolla Sacola Shopper Universitária",
-          "mobile_img": "/img/uploads/bolsa-santa-lolla-sacola-shopper-universitaria-m.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/santa_lolla_verao_2025-2-.webp",
-          "link": "https://urbanna.com.br/calcados-femininos",
-          "mobile_img": "/img/uploads/santa_lolla_verao_2025_mobile-1.webp",
-          "alt": "Santa Lolla - Verão 2025"
+          "link": "https://urbanna.com.br/bolsas/transversal",
+          "alt": "Bolsa Transversal Santa Lolla 2025",
+          "img": "/img/uploads/santa_lolla_verao_2025_bolsas_transversais_e.jpg",
+          "mobile_img": "/img/uploads/santa_lolla_verao_2025_bolsas_transversais_mobile_e.jpg"
         },
         {
           "start": "",
@@ -34,10 +26,18 @@
         {
           "start": "",
           "end": "",
-          "link": "https://urbanna.com.br/bolsas/transversal",
-          "alt": "Bolsa Transversal Santa Lolla 2025",
-          "img": "/img/uploads/santa_lolla_verao_2025_bolsas_transversais_e.jpg",
-          "mobile_img": "/img/uploads/santa_lolla_verao_2025_bolsas_transversais_mobile_e.jpg"
+          "img": "/img/uploads/bolsa-santa-lolla-sacola-shopper-universitaria.webp",
+          "link": "https://urbanna.com.br/bolsa-sacola",
+          "alt": "Bolsa Santa Lolla Sacola Shopper Universitária",
+          "mobile_img": "/img/uploads/bolsa-santa-lolla-sacola-shopper-universitaria-m.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/santa_lolla_verao_2025-2-.webp",
+          "link": "https://urbanna.com.br/calcados-femininos",
+          "mobile_img": "/img/uploads/santa_lolla_verao_2025_mobile-1.webp",
+          "alt": "Santa Lolla - Verão 2025"
         }
       ]
     },
