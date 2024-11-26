@@ -22,6 +22,22 @@
           "link": "https://urbanna.com.br/calcados-femininos",
           "mobile_img": "/img/uploads/santa_lolla_verao_2025_mobile-1.webp",
           "alt": "Santa Lolla - Verão 2025"
+        },
+        {
+          "start": "",
+          "end": "",
+          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
+          "alt": "Sandálias Femininas - Icon shapes",
+          "mobile_img": "/img/uploads/santa_lolla_sandalias_verao_2025_icons_mobile_e.jpg",
+          "img": "/img/uploads/santa_lolla_sandalias_verao_2025_icons_e.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "link": "https://urbanna.com.br/bolsas/transversal",
+          "alt": "Bolsa Transversal Santa Lolla 2025",
+          "img": "/img/uploads/santa_lolla_verao_2025_bolsas_transversais_e.jpg",
+          "mobile_img": "/img/uploads/santa_lolla_verao_2025_bolsas_transversais_mobile_e.jpg"
         }
       ]
     },
