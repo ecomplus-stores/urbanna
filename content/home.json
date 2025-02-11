@@ -3,10 +3,6 @@
   "meta_description": "Na Urbanna você encontra calçados, roupas e bolsas femininas. Compre Santa Lolla e Frysaide aqui. Compre com frete grátis e parcelamento em até 10x sem juros.",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": true,
@@ -44,6 +40,10 @@
           "alt": "Santa Lolla - Verão 2025"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "banners-grid",
