@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "options": {
     "buyText": "Comprar",
-    "buy": "background-color: #28a745;",
+    "buy": "",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
