@@ -25,10 +25,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -42,6 +38,10 @@
           "alt": "Sandálias Santa Lolla - Verão 2025"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "custom-html",
