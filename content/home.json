@@ -29,16 +29,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 16,
-      "page": 1,
-      "collection_id": "6451a7a04bd2e929c1e9dfc9:categories:Botas:/calcados-femininos/botas",
-      "sort": "news",
-      "title": "Botas",
-      "autoplay": 6000
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -59,19 +49,14 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap\" rel=\"stylesheet\">\n<style>\npoppins-text {\n    font-family: 'Poppins', sans-serif;\n    font-size: 24px;\n    font-family: sans-serif;\n  }\n</style>\n<h2 class=\"poppins-text\"  align=\"center\">encontre os últimos lançamentos Santa Lolla</h2>"
-    },
-    {
-      "autoplay": 6000,
-      "page": 1,
-      "title": "Botas",
-      "shuffle": false,
       "type": "collection-shelf",
-      "link": "",
+      "shuffle": false,
       "limit": 16,
+      "page": 1,
       "collection_id": "6451a7a04bd2e929c1e9dfc9:categories:Botas:/calcados-femininos/botas",
-      "sort": "news"
+      "sort": "news",
+      "title": "Botas",
+      "autoplay": 6000
     },
     {
       "type": "collection-shelf",
