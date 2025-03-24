@@ -63,6 +63,17 @@
       "html": "<link href=\"https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap\" rel=\"stylesheet\">\n<style>\npoppins-text {\n    font-family: 'Poppins', sans-serif;\n    font-size: 24px;\n    font-family: sans-serif;\n  }\n</style>\n<h2 class=\"poppins-text\"  align=\"center\">encontre os últimos lançamentos Santa Lolla</h2>"
     },
     {
+      "autoplay": 6000,
+      "page": 1,
+      "title": "Botas",
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "",
+      "limit": 16,
+      "collection_id": "6451a7a04bd2e929c1e9dfc9:categories:Botas:/calcados-femininos/botas",
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 14,
@@ -74,12 +85,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 15,
       "page": 1,
-      "collection_id": "6451a6e44bd2e929c1e9dee3:categories:Rasteiras:/calcados-femininos/rasteiras",
+      "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
       "sort": "news",
-      "title": "Rasteiras",
-      "link": ""
+      "title": "Bolsas"
     },
     {
       "type": "banners-grid",
@@ -90,15 +100,6 @@
           "alt": "Santa Lolla Bolsas Verão 2025"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 15,
-      "page": 1,
-      "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
-      "sort": "news",
-      "title": "Bolsas"
     },
     {
       "type": "custom-html",
