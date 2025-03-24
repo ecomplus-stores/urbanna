@@ -3,6 +3,6 @@
   "active": false,
   "desktopOnly": false,
   "options": {
-    "strHasShippingCalculator": " "
+    "strHasShippingCalculator": "true"
   }
 }
