@@ -29,26 +29,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/botas_santa_lolla_inverno_2025.webp",
-          "link": "https://urbanna.com.br/calcados-femininos/botas",
-          "alt": "Botas Santa Lolla | Inverno 2025"
-        },
-        {
-          "img": "/img/uploads/sandalias_santa_lolla_inverno_2025.webp",
-          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
-          "alt": "Sandálias Santa Lolla - Inverno 2025"
-        },
-        {
-          "img": "/img/uploads/bolsas_santa_lolla_inverno_2025-1.webp",
-          "link": "https://urbanna.com.br/bolsas-e-carteiras-femininas/bolsas",
-          "alt": "Bolsas Santa Lolla - Inverno 2025"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 16,
@@ -81,9 +61,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/santa_lolla_bolsas_verao_2025.webp",
+          "img": "/img/uploads/botas_santa_lolla_inverno_2025.webp",
+          "link": "https://urbanna.com.br/calcados-femininos/botas",
+          "alt": "Botas Santa Lolla | Inverno 2025"
+        },
+        {
+          "img": "/img/uploads/sandalias_santa_lolla_inverno_2025.webp",
+          "link": "https://urbanna.com.br/calcados-femininos/sandalias",
+          "alt": "Sandálias Santa Lolla - Inverno 2025"
+        },
+        {
+          "img": "/img/uploads/bolsas_santa_lolla_inverno_2025-1.webp",
           "link": "https://urbanna.com.br/bolsas-e-carteiras-femininas/bolsas",
-          "alt": "Santa Lolla Bolsas Verão 2025"
+          "alt": "Bolsas Santa Lolla - Inverno 2025"
         }
       ]
     },
