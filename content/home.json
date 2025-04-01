@@ -10,10 +10,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/santa_lolla_inverno_1_2025.webp",
-          "alt": "Santa Lolla - Inverno 2025 - Preview",
-          "mobile_img": "/img/uploads/santa_lolla_inverno_1_2025_2.webp",
-          "link": "https://urbanna.com.br/calcados-femininos"
+          "img": "/img/uploads/tenis_santa_lolla_inverno_2025.webp",
+          "mobile_img": "/img/uploads/tenis_santa_lolla_inverno_2025_m.webp",
+          "link": "https://urbanna.com.br/calcados-femininos/tenis",
+          "alt": "Tênis Santa Lolla - Inverno 2025"
         },
         {
           "start": "",
@@ -25,10 +25,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/tenis_santa_lolla_inverno_2025.webp",
-          "mobile_img": "/img/uploads/tenis_santa_lolla_inverno_2025_m.webp",
-          "link": "https://urbanna.com.br/calcados-femininos/tenis",
-          "alt": "Tênis Santa Lolla - Inverno 2025"
+          "img": "/img/uploads/santa_lolla_inverno_1_2025.webp",
+          "alt": "Santa Lolla - Inverno 2025 - Preview",
+          "mobile_img": "/img/uploads/santa_lolla_inverno_1_2025_2.webp",
+          "link": "https://urbanna.com.br/calcados-femininos"
         }
       ]
     },
