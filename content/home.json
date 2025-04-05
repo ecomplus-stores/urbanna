@@ -69,6 +69,16 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "6451a7134bd2e929c1e9df0f:categories:Tênis:/calcados-femininos/tenis",
+      "sort": "news",
+      "title": "Tênis",
+      "autoplay": 6000
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "limit": 16,
       "page": 1,
       "collection_id": "6460396da0e875411e8c8bb3:categories:Bolsas:/bolsas-e-carteiras-femininas/bolsas",
