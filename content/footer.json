@@ -11,7 +11,12 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Calçados",
+        "url": "https://urbanna.com.br/calcados-femininos"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
