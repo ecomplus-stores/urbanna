@@ -64,6 +64,8 @@ jobs:
       - name: Run partial build
         env:
           CHANGED_FILES: ${{ steps.changed_files.outputs.all }}
+          # Node 20: avoid build aborts from dual-stack connect timeouts (and legacy OpenSSL hashes in old webpack)
+          NODE_OPTIONS: --no-network-family-autoselection
         run: |
           IS_ECOMPLUS_CD=$(node -p "const f = JSON.parse('${CHANGED_FILES}'); f.length === 1 && f[0] === '.ecomplus.cd.json'");
           if [ $IS_ECOMPLUS_CD != false ]; then
